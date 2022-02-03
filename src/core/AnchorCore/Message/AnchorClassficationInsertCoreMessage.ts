@@ -1,0 +1,11 @@
+
+export class  AnchorClassficationInsertCoreMessage{
+public name : string | undefined;
+public icon : string | undefined;
+public path : string | undefined;
+public mark : string | undefined;
+public insertTime : string | undefined;
+public updateTime : string | undefined;
+public id : number | undefined;
+
+}

@@ -1,0 +1,1243 @@
+{
+  "frameRate": 24,
+  "isGlobal": 0,
+  "name": "live_gift_cucumber",
+  "version": "5.0",
+  "armature": [
+    {
+      "aabb": {
+        "width": 1211,
+        "y": -535,
+        "height": 1055,
+        "x": -621
+      },
+      "skin": [
+        {
+          "name": "",
+          "slot": [
+            {
+              "display": [
+                {
+                  "path": "星星1_8",
+                  "type": "image",
+                  "name": "星星1_8",
+                  "transform": {
+                    "y": -3.1236,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -4.9671
+                  }
+                }
+              ],
+              "name": "星星1_8"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_10",
+                  "type": "image",
+                  "name": "星星1_10",
+                  "transform": {
+                    "y": 0.6924,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -3.2323
+                  }
+                }
+              ],
+              "name": "星星1_10"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1",
+                  "type": "image",
+                  "name": "星星1",
+                  "transform": {
+                    "y": 2.8652,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -13.6431
+                  }
+                }
+              ],
+              "name": "星星1"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_11",
+                  "type": "image",
+                  "name": "星星1_11",
+                  "transform": {
+                    "y": -1.6518,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -3.6441
+                  }
+                }
+              ],
+              "name": "星星1_11"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_2",
+                  "type": "image",
+                  "name": "星星1_2",
+                  "transform": {
+                    "y": -0.4194,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": 1.9985
+                  }
+                }
+              ],
+              "name": "星星1_2"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_12",
+                  "type": "image",
+                  "name": "星星1_12",
+                  "transform": {
+                    "y": 0.8467,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -3.9995
+                  }
+                }
+              ],
+              "name": "星星1_12"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_7",
+                  "type": "image",
+                  "name": "星星1_7",
+                  "transform": {
+                    "y": -2.8226,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": 1.0588
+                  }
+                }
+              ],
+              "name": "星星1_7"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_5",
+                  "type": "image",
+                  "name": "星星1_5",
+                  "transform": {
+                    "y": -2.9056,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -3.6999
+                  }
+                }
+              ],
+              "name": "星星1_5"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_9",
+                  "type": "image",
+                  "name": "星星1_9",
+                  "transform": {
+                    "y": -0.487,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -4.9794
+                  }
+                }
+              ],
+              "name": "星星1_9"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_0",
+                  "type": "image",
+                  "name": "星星1_0",
+                  "transform": {
+                    "y": 4.7675,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -5.6005
+                  }
+                }
+              ],
+              "name": "星星1_0"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_4",
+                  "type": "image",
+                  "name": "星星1_4",
+                  "transform": {
+                    "y": 0.6527,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": 1.0408
+                  }
+                }
+              ],
+              "name": "星星1_4"
+            },
+            {
+              "display": [
+                {
+                  "path": "主体",
+                  "type": "image",
+                  "name": "主体",
+                  "transform": {
+                    "y": -1.5919,
+                    "skX": 89.8102,
+                    "skY": 89.8102,
+                    "x": 7.2452
+                  }
+                }
+              ],
+              "name": "主体"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_1",
+                  "type": "image",
+                  "name": "星星1_1",
+                  "transform": {
+                    "y": 1.8929,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -2.9473
+                  }
+                }
+              ],
+              "name": "星星1_1"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_6",
+                  "type": "image",
+                  "name": "星星1_6",
+                  "transform": {
+                    "y": -1.4512,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -1.0069
+                  }
+                }
+              ],
+              "name": "星星1_6"
+            },
+            {
+              "display": [
+                {
+                  "path": "星星1_3",
+                  "type": "image",
+                  "name": "星星1_3",
+                  "transform": {
+                    "y": 0.3267,
+                    "skX": 90,
+                    "skY": 90,
+                    "x": -0.0838
+                  }
+                }
+              ],
+              "name": "星星1_3"
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "frame": [],
+          "duration": 98,
+          "bone": [
+            {
+              "frame": [
+                {
+                  "duration": 98,
+                  "transform": {}
+                }
+              ],
+              "name": "root"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 20,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 60,
+                  "transform": {}
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 18,
+                  "transform": {}
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "主体"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 22,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 30,
+                  "transform": {}
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {}
+                },
+                {
+                  "duration": 16,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_11"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 20,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 16,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 22,
+                  "transform": {}
+                },
+                {
+                  "duration": 40,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 20,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 16,
+                  "transform": {}
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "transform": {}
+                },
+                {
+                  "duration": 20,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_4"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 30,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 16,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "transform": {}
+                },
+                {
+                  "duration": 38,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_5"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 24,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 22,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 26,
+                  "transform": {
+                    "scY": 1.5,
+                    "scX": 1.5
+                  }
+                },
+                {
+                  "duration": 26,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_6"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 20,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 6,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {}
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 16,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {}
+                },
+                {
+                  "duration": 36,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_1"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 30,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {}
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {}
+                },
+                {
+                  "duration": 24,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_12"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 36,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 18,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 20,
+                  "transform": {
+                    "scY": 2,
+                    "scX": 2
+                  }
+                },
+                {
+                  "duration": 24,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_0"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 20,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 16,
+                  "transform": {}
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 16,
+                  "transform": {}
+                },
+                {
+                  "duration": 18,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_10"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 26,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 19,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 15,
+                  "transform": {}
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "transform": {}
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_3"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 30,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 24,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 25,
+                  "transform": {
+                    "scY": 2,
+                    "scX": 2
+                  }
+                },
+                {
+                  "duration": 19,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_2"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 20,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 16,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 17,
+                  "transform": {}
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 16,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 15,
+                  "transform": {}
+                },
+                {
+                  "duration": 14,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_8"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 20,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "transform": {}
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 12,
+                  "transform": {}
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 12,
+                  "transform": {}
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_41"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 38,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 20,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 22,
+                  "transform": {
+                    "scY": 2,
+                    "scX": 2
+                  }
+                },
+                {
+                  "duration": 18,
+                  "transform": {
+                    "scY": 0.01,
+                    "scX": 0.01
+                  }
+                }
+              ],
+              "name": "星星1_7"
+            }
+          ],
+          "slot": [
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 20,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 60
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 18
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "主体"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 22,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 30
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 16,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "星星1_11"
+            }
+          ],
+          "ffd": [],
+          "ik": [],
+          "name": "cucumber",
+          "playTimes": 0
+        }
+      ],
+      "type": "Armature",
+      "frameRate": 24,
+      "bone": [
+        {
+          "name": "root",
+          "transform": {}
+        },
+        {
+          "length": 467,
+          "transform": {
+            "y": 7.7505,
+            "skX": -89.8102,
+            "skY": -89.8102,
+            "x": 1.5679
+          },
+          "parent": "root",
+          "name": "主体"
+        },
+        {
+          "length": 257,
+          "transform": {
+            "y": -396.6441,
+            "skX": -90,
+            "skY": -90,
+            "x": -497.3482
+          },
+          "parent": "root",
+          "name": "星星1_11"
+        },
+        {
+          "length": 240,
+          "transform": {
+            "y": -304.1431,
+            "skX": -90,
+            "skY": -90,
+            "x": -234.3652
+          },
+          "parent": "root",
+          "name": "星星1"
+        },
+        {
+          "length": 326,
+          "transform": {
+            "y": 451.0206,
+            "skX": -90,
+            "skY": -90,
+            "x": -559.513
+          },
+          "parent": "root",
+          "name": "星星1_4"
+        },
+        {
+          "length": 234,
+          "transform": {
+            "y": -352.1999,
+            "skX": -90,
+            "skY": -90,
+            "x": 235.9056
+          },
+          "parent": "root",
+          "name": "星星1_5"
+        },
+        {
+          "length": 240,
+          "transform": {
+            "y": -405.5069,
+            "skX": -90,
+            "skY": -90,
+            "x": 460.4512
+          },
+          "parent": "root",
+          "name": "星星1_6"
+        },
+        {
+          "length": 281,
+          "transform": {
+            "y": -159.9473,
+            "skX": -90,
+            "skY": -90,
+            "x": 518.6071
+          },
+          "parent": "root",
+          "name": "星星1_1"
+        },
+        {
+          "length": 235,
+          "transform": {
+            "y": 147.0005,
+            "skX": -90,
+            "skY": -90,
+            "x": 386.1533
+          },
+          "parent": "root",
+          "name": "星星1_12"
+        },
+        {
+          "length": 243,
+          "transform": {
+            "y": 40.3995,
+            "skX": -90,
+            "skY": -90,
+            "x": 24.2325
+          },
+          "parent": "root",
+          "name": "星星1_0"
+        },
+        {
+          "length": 205,
+          "transform": {
+            "y": 450.7677,
+            "skX": -90,
+            "skY": -90,
+            "x": 528.3076
+          },
+          "parent": "root",
+          "name": "星星1_10"
+        },
+        {
+          "length": 182,
+          "transform": {
+            "y": 334.4162,
+            "skX": -90,
+            "skY": -90,
+            "x": 232.6733
+          },
+          "parent": "root",
+          "name": "星星1_3"
+        },
+        {
+          "length": 208,
+          "transform": {
+            "y": 258.4985,
+            "skX": -90,
+            "skY": -90,
+            "x": -455.5806
+          },
+          "parent": "root",
+          "name": "星星1_2"
+        },
+        {
+          "length": 174,
+          "transform": {
+            "y": 405.5329,
+            "skX": -90,
+            "skY": -90,
+            "x": -172.8764
+          },
+          "parent": "root",
+          "name": "星星1_8"
+        },
+        {
+          "length": 166,
+          "transform": {
+            "y": -478.4592,
+            "skX": -90,
+            "skY": -90,
+            "x": -1.6527
+          },
+          "parent": "root",
+          "name": "星星1_41"
+        },
+        {
+          "length": 221,
+          "transform": {
+            "y": -83.4412,
+            "skX": -90,
+            "skY": -90,
+            "x": -525.1774
+          },
+          "parent": "root",
+          "name": "星星1_7"
+        }
+      ],
+      "defaultActions": [
+        {
+          "gotoAndPlay": "cucumber"
+        }
+      ],
+      "slot": [
+        {
+          "name": "主体",
+          "parent": "主体",
+          "color": {}
+        },
+        {
+          "z": 1,
+          "name": "星星1",
+          "parent": "星星1",
+          "color": {}
+        },
+        {
+          "z": 2,
+          "name": "星星1_0",
+          "parent": "星星1_0",
+          "color": {}
+        },
+        {
+          "z": 3,
+          "name": "星星1_1",
+          "parent": "星星1_1",
+          "color": {}
+        },
+        {
+          "z": 4,
+          "name": "星星1_2",
+          "parent": "星星1_2",
+          "color": {}
+        },
+        {
+          "z": 5,
+          "name": "星星1_3",
+          "parent": "星星1_3",
+          "color": {}
+        },
+        {
+          "z": 6,
+          "name": "星星1_4",
+          "parent": "星星1_41",
+          "color": {}
+        },
+        {
+          "z": 7,
+          "name": "星星1_5",
+          "parent": "星星1_5",
+          "color": {}
+        },
+        {
+          "z": 8,
+          "name": "星星1_6",
+          "parent": "星星1_6",
+          "color": {}
+        },
+        {
+          "z": 9,
+          "name": "星星1_7",
+          "parent": "星星1_7",
+          "color": {}
+        },
+        {
+          "z": 10,
+          "name": "星星1_8",
+          "parent": "星星1_8",
+          "color": {}
+        },
+        {
+          "z": 11,
+          "name": "星星1_9",
+          "parent": "星星1_4",
+          "color": {}
+        },
+        {
+          "z": 12,
+          "name": "星星1_10",
+          "parent": "星星1_10",
+          "color": {}
+        },
+        {
+          "z": 13,
+          "name": "星星1_11",
+          "parent": "星星1_11",
+          "color": {}
+        },
+        {
+          "z": 14,
+          "name": "星星1_12",
+          "parent": "星星1_12",
+          "color": {}
+        }
+      ],
+      "ik": [],
+      "name": "cucumber"
+    }
+  ]
+}

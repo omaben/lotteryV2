@@ -1,0 +1,56 @@
+
+export class  LotteryDrawTimeSearchCoreMessage{
+public like_id_lotteryDrawTime : number | undefined;
+public equal_id_lotteryDrawTime : number | undefined;
+public less_id_lotteryDrawTime : number | undefined;
+public greater_id_lotteryDrawTime : number | undefined;
+public max_id_lotteryDrawTime : number | undefined;
+public min_id_lotteryDrawTime : number | undefined;
+public in_id_lotteryDrawTime : number | undefined;
+public sortAsc_id_lotteryDrawTime : boolean | undefined;
+public sortDesc_id_lotteryDrawTime : boolean | undefined;
+public group_id_lotteryDrawTime : boolean | undefined;
+public like_drawTime_lotteryDrawTime : string | undefined;
+public equal_drawTime_lotteryDrawTime : string | undefined;
+public less_drawTime_lotteryDrawTime : string | undefined;
+public greater_drawTime_lotteryDrawTime : string | undefined;
+public max_drawTime_lotteryDrawTime : string | undefined;
+public min_drawTime_lotteryDrawTime : string | undefined;
+public in_drawTime_lotteryDrawTime : string | undefined;
+public sortAsc_drawTime_lotteryDrawTime : boolean | undefined;
+public sortDesc_drawTime_lotteryDrawTime : boolean | undefined;
+public group_drawTime_lotteryDrawTime : boolean | undefined;
+public like_lotteryInfo_lotteryDrawTime : number | undefined;
+public equal_lotteryInfo_lotteryDrawTime : number | undefined;
+public less_lotteryInfo_lotteryDrawTime : number | undefined;
+public greater_lotteryInfo_lotteryDrawTime : number | undefined;
+public max_lotteryInfo_lotteryDrawTime : number | undefined;
+public min_lotteryInfo_lotteryDrawTime : number | undefined;
+public in_lotteryInfo_lotteryDrawTime : number | undefined;
+public sortAsc_lotteryInfo_lotteryDrawTime : boolean | undefined;
+public sortDesc_lotteryInfo_lotteryDrawTime : boolean | undefined;
+public group_lotteryInfo_lotteryDrawTime : boolean | undefined;
+public like_insertTime_lotteryDrawTime : string | undefined;
+public equal_insertTime_lotteryDrawTime : string | undefined;
+public less_insertTime_lotteryDrawTime : string | undefined;
+public greater_insertTime_lotteryDrawTime : string | undefined;
+public max_insertTime_lotteryDrawTime : string | undefined;
+public min_insertTime_lotteryDrawTime : string | undefined;
+public in_insertTime_lotteryDrawTime : string | undefined;
+public sortAsc_insertTime_lotteryDrawTime : boolean | undefined;
+public sortDesc_insertTime_lotteryDrawTime : boolean | undefined;
+public group_insertTime_lotteryDrawTime : boolean | undefined;
+public like_updateTime_lotteryDrawTime : string | undefined;
+public equal_updateTime_lotteryDrawTime : string | undefined;
+public less_updateTime_lotteryDrawTime : string | undefined;
+public greater_updateTime_lotteryDrawTime : string | undefined;
+public max_updateTime_lotteryDrawTime : string | undefined;
+public min_updateTime_lotteryDrawTime : string | undefined;
+public in_updateTime_lotteryDrawTime : string | undefined;
+public sortAsc_updateTime_lotteryDrawTime : boolean | undefined;
+public sortDesc_updateTime_lotteryDrawTime : boolean | undefined;
+public group_updateTime_lotteryDrawTime : boolean | undefined;
+
+public count : number | undefined;
+public page : number | undefined;
+}

@@ -1,0 +1,133 @@
+/*
+  * @Author: reggie 
+  * @LastAuthor: reggie
+  * @Param null
+  * @Return null
+  * @Date: 2021-04-07 12:15:09
+  * @Description: Styles for how to play popup with theme styles.
+*/
+
+::v-deep.how-to-play-popup {
+  width: 90%;
+  height: 80%;
+
+  .pop-up-container {
+    line-height: 40px;
+  }
+
+  .popup-content {
+    > span {
+      color: #aaa;
+      width: 100%;
+      text-align: right;
+      position: relative;
+      right: 10px;
+      display: block;
+      margin-right: 14px;
+      
+      .arrow {
+        top: 1px;
+      }
+    }
+  }
+
+  .popup-header{
+    height: 40px;
+    background-image: linear-gradient(-6deg, #ff6363 0%, #d71616 100%), linear-gradient(#ea2626, #ea2626);
+    color:#fff;
+  }
+
+  .van-popup__close-icon--top-right {
+    top: 10px;
+  }
+
+  .van-icon-cross::before {
+    font-size: 15pt;
+    background: #fff;
+    border-radius: 50%;
+    padding: 1px
+  }
+
+  .table {
+    border-collapse: collapse;
+    width: 95%;
+    margin: 0 auto 20px;
+
+    td {
+      text-align: center;
+    }
+
+    .long-text {
+      width: 50%;
+      line-height: initial;
+      text-align: left;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 5px;
+      font-size: 12px;
+    }
+  }
+}
+
+
+
+/* classic-red */
+.theme-color.theme-color-classic-red {
+  .how-to-play-popup .popup-header {
+    background: linear-gradient(180deg,#fc9c5d,#ee7656 0,#e04f4f 62%),linear-gradient(#e04f4f,#e04f4f)
+  }
+  .how-to-play-popup ::v-deep.van-popup__close-icon--top-right {
+    color: #fff;
+    &::before {
+      background: transparent;
+      border: 1px solid #fff;
+    }
+  }
+}
+
+/* start classic-blue */
+.theme-color.theme-color-classic-blue {
+  .how-to-play-popup .popup-header {
+    background-image: linear-gradient(
+      -6deg, rgb(25,122,207)0%, 
+      rgb(76,169,249) 50%, 
+      rgb(25,122,207)100%), 
+      linear-gradient( 
+        rgb(25,122,207), 
+        rgb(76,169,249), 
+        rgb(25,122,207)
+      );
+  }
+}
+
+/* start noble-black-gold */
+.theme-color.theme-color-noble-black-gold {
+  .how-to-play-popup .popup-header {
+    background-image: linear-gradient(
+      180deg, rgb(200,152,90)0%, 
+      rgb(252,219,175)100%, 
+      rgb(102,61,6)100%), 
+      linear-gradient( 
+        rgb(200,152,90), 
+        rgb(252,219,175), 
+        rgb(102,61,6)
+      );
+  }
+}
+
+/* start noble-black-gold */
+.theme-color.theme-color-simple-platinum{
+  .how-to-play-popup .popup-header {
+    background-image: linear-gradient(
+      180deg, rgb(111,110,109)0%, 
+      rgb(148,147,147)60%, 
+      rgb(216,215,215)100%), 
+      linear-gradient( 
+        rgb(111,110,109), 
+        rgb(148,147,147), 
+        rgb(216,215,215)
+      );
+  }
+}

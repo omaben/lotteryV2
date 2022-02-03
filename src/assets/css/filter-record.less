@@ -1,0 +1,147 @@
+.filter-container {
+  background: #fff;
+
+  .filter-container-wrapper {
+    justify-content: center;
+    padding: 10px;
+    display: block;
+
+    .date {
+      display: flex;
+      justify-content: center;
+      padding: 5px 15px 0px 00px;
+  
+      .date-label {
+        min-width: 50px;
+        line-height: 36px;
+        word-break: keep-all;
+        color: #2c3e50;
+        font-size: 14px;
+      }
+  
+      .date-divider {
+        word-break: keep-all;
+        min-width: 20px;
+        line-height: 36px;
+      }
+    }
+  
+    .options {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-right: 15px;
+      height: 40px;
+    }
+  
+    .opt-btn {
+      height: 25px;
+      padding: 0 5px;
+      font-size: 14px;
+      width: 60px;
+      border-radius: 3px;
+    }
+  
+    .btn-margin{
+      margin-right: 5px;
+    }
+  
+    ::v-deep.van-checkbox {
+      margin-right: 25px;
+      font-size: 14px;
+    }
+  
+    ::v-deep.van-checkbox .van-checkbox__icon {
+      order: 1;
+    }
+  
+    ::v-deep.van-checkbox .van-checkbox__label {
+      margin-right: 10px;
+      margin-left: 0px;
+      color: #2c3e50;
+    }
+  
+    ::v-deep.date .van-cell {
+      min-width: 200px;
+      max-width: 210px;
+      font-size: 11px;
+      display: flex;
+      padding: 0px;
+    }
+  
+    ::v-deep.date .van-cell .van-cell__value {
+      padding: 5px 3px;
+    }
+  
+    .van-cell {
+      padding: 5px 15px 0px 50px;
+      display: flex;
+      align-items: center;
+    }
+  
+    .van-cell::after {
+      content: none;
+    }
+  
+    ::v-deep.van-cell .van-field__label {
+      color: #2c3e50;
+      width: auto;
+      min-width: 70px;
+      text-align: right;
+      margin-right: 10px;
+    }
+  
+    ::v-deep.van-cell .van-field__value {
+      border: 1px solid #dbdbdb;
+      padding: 5px 10px;
+      border-radius: 5px;
+    }
+  }
+
+  .van-picker__cancel {
+    color: #858481;
+  }
+  .van-picker__title {
+    color: #000;
+  }
+}
+
+::v-deep.color-type-popup {
+  .header {
+    height: 35px;
+    line-height: 35px;
+    text-align: left;
+    padding: 0px 15px;
+    background: #ed5053;
+    color: #fff;
+  }
+
+  .body {
+    padding: 10px 15px;
+    .van-radio:not(:last-child) {
+      margin-bottom: 20px;
+    }
+  }
+}
+
+
+/* classic-red */
+.theme-color.theme-color-classic-red {
+  .filter-container .confirm {
+    background: linear-gradient(0deg, rgba(224,79,79,1) 0%, rgba(238,107,107,1) 62%, rgba(252,134,134,1) 100%);
+  }
+
+  .van-checkbox ::v-deep.van-checkbox__icon--checked .van-icon {
+    background: linear-gradient(0deg, rgba(224,79,79,1) 0%, rgba(238,107,107,1) 62%, rgba(252,134,134,1) 100%);
+  }
+
+}
+
+/* start classic-blue */
+.theme-color.theme-color-classic-blue {}
+
+/* start noble-black-gold */
+.theme-color.theme-color-noble-black-gold {}
+
+/* start noble-black-gold */
+.theme-color.theme-color-simple-platinum{}
